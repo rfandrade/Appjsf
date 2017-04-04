@@ -36,16 +36,25 @@ public class UsuarioController implements Serializable {
 		this.usuarioModel = usuarioModel;
 	}
 
+	// Recupera o objeto que representa o usuário logado e autenticado pelo sistema, este objeto estará setado no contexto da sistema
 	public UsuarioModel GetUsuarioSession(){
 		FacesContext facesContext = FacesContext.getCurrentInstance();
 		return (UsuarioModel)facesContext.getExternalContext().getSessionMap().get("usuarioAutenticado");
 	}
 
+	// Efetua logout redirencionando para a pagina inicial (index.xhtml)
 	public String Logout(){
 		FacesContext.getCurrentInstance().getExternalContext().invalidateSession();
 		return "/index.xhtml?faces-redirect=true";
 	}
 	
+	/* Efetua login seguindo os seguintes passo:
+		1- verifiando se usuário e senha foram informados, se não informa ao usuário e retorna null (volta para tela incial sem logar).
+		2- valida usuário, buscando na base de dados usuário cadastrado conforme o informado pelo usuário, se não encontrado avisa o usuário e retorna null (volta para tela incial sem logar). 
+		3- carrega o objeto usuarioModel com os dados encontrados na base de dados.
+		4- seta no contexto do sistema  a variável denominada "usuarioAutenticado" com o objeto "usuarioModel"
+		5- redireciona a requisição para a pagina "home" (home.xhtml). 
+	*/
 	public String EfetuarLogin(){
 		if(StringUtils.isEmpty(usuarioModel.getUsuario()) || StringUtils.isBlank(usuarioModel.getUsuario())){
 			Uteis.Mensagem("Favor informar o login!");

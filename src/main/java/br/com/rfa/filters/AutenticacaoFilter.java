@@ -27,10 +27,17 @@ public class AutenticacaoFilter implements Filter {
 
 	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain) throws IOException, ServletException {
 
+		// Recupera o objeto de sessão da requisição enviada
 		HttpSession httpSession 				= ((HttpServletRequest) request).getSession(); 
+		
+		// Converte o servlet de requisição em um HttpServletRequest 
 		HttpServletRequest httpServletRequest   = (HttpServletRequest) request;
+		// Converte o servlet de resposta em um HttpServletResponse
 		HttpServletResponse httpServletResponse = (HttpServletResponse) response;
 
+		
+		
+		// Verifica se a requisição enviada partil de uma página expecífica, no caso "index.xhtml" 
 		if(httpServletRequest.getRequestURI().indexOf("index.xhtml") <= -1){
 			UsuarioModel usuarioModel =(UsuarioModel) httpSession.getAttribute("usuarioAutenticado");
 			if(usuarioModel == null){

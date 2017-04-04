@@ -8,12 +8,14 @@
 
 	<p:menubar>
 		<p:menuitem value="Home" icon="ui-icon-home" outcome="home.xhtml" />
-		<p:menuitem value="Cadastro" icon="ui-icon-document" outcome="cadastrarPessoa.xhtml" />
+		<p:submenu label="Cadastro">
+				<p:menuitem value="Pessoa" icon="ui-icon-document" outcome="cadastrarPessoa.xhtml" />
+				<p:menuitem value="Usuário" icon="ui-icon-document" outcome="cadastrarUsuario.xhtml" />
+		</p:submenu>
 		<p:menuitem value="Consulta" icon="ui-icon-document" outcome="consultarPessoa.xhtml" />
 		<p:menuitem value="Consulta por Carousel" icon="ui-icon-document" outcome="consultarPessoaCarousel.xhtml" />
 		<p:menuitem value="Gráfico tipo Pessoa" icon="ui-icon-document" outcome="graficoPizzaPessoa.xthml" />
 		<p:menuitem value="Exportar XML Pessoa" icon="ui-icon-document" outcome="exportarRegistrosXml.xhtml" />
-
 
 		<f:facet name="options">
 			<p:commandButton value="Logout" icon="ui-icon-extlink" action="#{usuarioController.Logout}" />

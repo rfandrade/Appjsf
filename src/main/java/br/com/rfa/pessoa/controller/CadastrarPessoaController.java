@@ -64,6 +64,8 @@ public class CadastrarPessoaController {
 
 		Uteis.MensagemInfo("Registro cadastrado com sucesso");
 	}
+	
+	
 	/**
 	 * REALIZANDO UPLOAD DE ARQUIVO
 	 */

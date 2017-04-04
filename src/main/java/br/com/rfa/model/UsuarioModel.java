@@ -2,6 +2,8 @@ package br.com.rfa.model;
 
 import java.io.Serializable;
 
+
+// CLASSE DESTINADA A PROVER OBJETO QUE SERÁ ARMAZENADO NO CONTEXO PARA VALIDAÇÃO DE ACESSO E IDENTIFICAÇÃO DO USUÁRIO 
 public class UsuarioModel implements Serializable {
 
 	private static final long serialVersionUID = 1L;

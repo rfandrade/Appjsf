@@ -4,7 +4,7 @@
 	xmlns:f="http://xmlns.jcp.org/jsf/core"
 	xmlns:p="http://primefaces.org/ui">
 
-	<h:form>
+	<h:form id="form-editar">
 
 		<h:panelGrid id="panelGrid-campos-form" columns="2" cellpadding="10">
 
@@ -45,7 +45,7 @@
 			<p:spacer />
 			<p:commandButton value="Alterar" id="commandButton-alterar"
 				icon="ui-icon-gear"
-				actionListener="#consultarPessoaController.AlterarRegistro}"
+				actionListener="#{consultarPessoaController.AlterarRegistro}"
 				oncomplete="PF('dialog-modal-editar').hide();"
 				update="form-consulta" />
 
