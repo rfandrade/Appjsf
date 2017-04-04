@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pessoas>
+	<Pessoa>
+		<codigo>1</codigo>
+		<nome>Cro Ednilson</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ciceroednilson@gmail.com</email>
+		<endereco>S䯠Paulo, S䯠Paulo, Faria lima Nб0</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>2</codigo>
+		<nome>Lucas Silva da silva</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>RafaelLimaMelo@dayrep.com</email>
+		<endereco>Beco dos Chagas, 1264</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>3</codigo>
+		<nome>Kai Correia Ferreira</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>KaiCorreiaFerreira@jourrapide.com</email>
+		<endereco>Pra衠Pl⤩do de Castro, 1783</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>4</codigo>
+		<nome>Camila Sousa Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>CamilaSousaCavalcanti@armyspy.com</email>
+		<endereco>Rua Francisco Vilani Bicudo, 167</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>5</codigo>
+		<nome>Clara Santos Azevedo</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ClaraSantosAzevedo@rhyta.com</email>
+		<endereco>Rua Jorge Nunes, 1677</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>6</codigo>
+		<nome>Lavinia Ferreira Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LaviniaFerreiraCavalcanti@dayrep.com</email>
+		<endereco>Rua Doutor Luiz Osvaldo Aranha, 282</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>7</codigo>
+		<nome>Luiza Martins Pereira</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LuizaMartinsPereira@dayrep.com</email>
+		<endereco>Ponta Grossa-PR,Rua Padre N󢲥ga, 598</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>8</codigo>
+		<nome>Cro Ednilson</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ciceroednilson@gmail.com</email>
+		<endereco>S䯠Paulo, S䯠Paulo, Faria lima Nб0</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>9</codigo>
+		<nome>Vit󲠃ardoso Silva</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>RafaelLimaMelo@dayrep.com</email>
+		<endereco>Beco dos Chagas, 1264</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>10</codigo>
+		<nome>Kai Correia Ferreira</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>KaiCorreiaFerreira@jourrapide.com</email>
+		<endereco>Pra衠Pl⤩do de Castro, 1783</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>11</codigo>
+		<nome>Camila Sousa Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>CamilaSousaCavalcanti@armyspy.com</email>
+		<endereco>Rua Francisco Vilani Bicudo, 167</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>12</codigo>
+		<nome>Clara Santos Azevedo</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ClaraSantosAzevedo@rhyta.com</email>
+		<endereco>Rua Jorge Nunes, 1677</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>13</codigo>
+		<nome>Lavinia Ferreira Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LaviniaFerreiraCavalcanti@dayrep.com</email>
+		<endereco>Rua Doutor Luiz Osvaldo Aranha, 282</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>14</codigo>
+		<nome>Luiza Martins Pereira</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LuizaMartinsPereira@dayrep.com</email>
+		<endereco>Ponta Grossa-PR,Rua Padre N󢲥ga, 598</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>15</codigo>
+		<nome>Cro Ednilson</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ciceroednilson@gmail.com</email>
+		<endereco>S䯠Paulo, S䯠Paulo, Faria lima Nб0</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>16</codigo>
+		<nome>Lucas Silva</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>RafaelLimaMelo@dayrep.com</email>
+		<endereco>Beco dos Chagas, 1264</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>17</codigo>
+		<nome>Kai Correia Ferreira</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>KaiCorreiaFerreira@jourrapide.com</email>
+		<endereco>Pra衠Pl⤩do de Castro, 1783</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>18</codigo>
+		<nome>Camila Sousa Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>CamilaSousaCavalcanti@armyspy.com</email>
+		<endereco>Rua Francisco Vilani Bicudo, 167</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>19</codigo>
+		<nome>Clara Santos Azevedo</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ClaraSantosAzevedo@rhyta.com</email>
+		<endereco>Rua Jorge Nunes, 1677</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>20</codigo>
+		<nome>Lavinia Ferreira Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LaviniaFerreiraCavalcanti@dayrep.com</email>
+		<endereco>Rua Doutor Luiz Osvaldo Aranha, 282</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>21</codigo>
+		<nome>Luiza Martins Pereira</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LuizaMartinsPereira@dayrep.com</email>
+		<endereco>Ponta Grossa-PR,Rua Padre N󢲥ga, 598</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>22</codigo>
+		<nome>Cro Ednilson</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ciceroednilson@gmail.com</email>
+		<endereco>S䯠Paulo, S䯠Paulo, Faria lima Nб0</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>23</codigo>
+		<nome>Miguel Araujo Melo</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>Miguel0002@armyspy.com</email>
+		<endereco>Travessa Quatro, 1540</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>24</codigo>
+		<nome>Kai Correia Ferreira</nome>
+		<sexo>Masculino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>KaiCorreiaFerreira@jourrapide.com</email>
+		<endereco>Pra衠Pl⤩do de Castro, 1783</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>25</codigo>
+		<nome>Camila Sousa Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>CamilaSousaCavalcanti@armyspy.com</email>
+		<endereco>Rua Francisco Vilani Bicudo, 167</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>26</codigo>
+		<nome>Clara Santos Azevedo</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>ClaraSantosAzevedo@rhyta.com</email>
+		<endereco>Rua Jorge Nunes, 1677</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>27</codigo>
+		<nome>Lavinia Ferreira Cavalcanti</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LaviniaFerreiraCavalcanti@dayrep.com</email>
+		<endereco>Rua Doutor Luiz Osvaldo Aranha, 282</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+	<Pessoa>
+		<codigo>28</codigo>
+		<nome>Luiza Martins Pereira</nome>
+		<sexo>Feminino</sexo>
+		<dataCadastro>03/04/2017 08:28:17</dataCadastro>
+		<email>LuizaMartinsPereira@dayrep.com</email>
+		<endereco>Ponta Grossa-PR,Rua Padre N󢲥ga, 598</endereco>
+		<origemCadastro>XML</origemCadastro>
+		<usuarioCadastro>admin</usuarioCadastro>
+	</Pessoa>
+</Pessoas>
